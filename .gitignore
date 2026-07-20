@@ -8,3 +8,5 @@ __pycache__/
 # Raw teaching datasets are excluded pending licence review.
 missing-data-imputation/data/*.csv
 !missing-data-imputation/data/README.md
+outlier-detection-and-feature-scaling/data/*.csv
+!outlier-detection-and-feature-scaling/data/README.md
