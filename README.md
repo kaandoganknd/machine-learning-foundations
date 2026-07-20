@@ -7,6 +7,7 @@ preparation and machine-learning foundations.
 
 - [Missing Data Detection and Imputation](missing-data-imputation/README.md)
 - [Outlier Detection and Feature Scaling](outlier-detection-and-feature-scaling/README.md)
+- [Categorical Encoding and Imbalanced Classification](categorical-encoding-and-imbalanced-classification/README.md)
 
 ## Portfolio transparency
 
