@@ -10,3 +10,5 @@ missing-data-imputation/data/*.csv
 !missing-data-imputation/data/README.md
 outlier-detection-and-feature-scaling/data/*.csv
 !outlier-detection-and-feature-scaling/data/README.md
+categorical-encoding-and-imbalanced-classification/data/*.csv
+!categorical-encoding-and-imbalanced-classification/data/README.md
