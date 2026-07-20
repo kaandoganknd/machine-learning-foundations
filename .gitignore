@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Raw teaching datasets are excluded pending licence review.
+missing-data-imputation/data/*.csv
+!missing-data-imputation/data/README.md
