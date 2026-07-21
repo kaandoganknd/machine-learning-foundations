@@ -10,6 +10,7 @@ preparation and machine-learning foundations.
 - [Categorical Encoding and Imbalanced Classification](categorical-encoding-and-imbalanced-classification/README.md)
 - [Supervised Classification and Model Evaluation](supervised-classification-and-model-evaluation/README.md)
 - [Linear and Logistic Regression](linear-and-logistic-regression/README.md)
+- [Decision Trees and Naive Bayes](decision-trees-and-naive-bayes/README.md)
 
 ## Portfolio transparency
 
