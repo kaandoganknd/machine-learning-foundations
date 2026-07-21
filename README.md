@@ -9,6 +9,7 @@ preparation and machine-learning foundations.
 - [Outlier Detection and Feature Scaling](outlier-detection-and-feature-scaling/README.md)
 - [Categorical Encoding and Imbalanced Classification](categorical-encoding-and-imbalanced-classification/README.md)
 - [Supervised Classification and Model Evaluation](supervised-classification-and-model-evaluation/README.md)
+- [Linear and Logistic Regression](linear-and-logistic-regression/README.md)
 
 ## Portfolio transparency
 
