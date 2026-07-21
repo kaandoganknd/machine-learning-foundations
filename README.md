@@ -11,6 +11,7 @@ preparation and machine-learning foundations.
 - [Supervised Classification and Model Evaluation](supervised-classification-and-model-evaluation/README.md)
 - [Linear and Logistic Regression](linear-and-logistic-regression/README.md)
 - [Decision Trees and Naive Bayes](decision-trees-and-naive-bayes/README.md)
+- [Classification and Ensemble Methods](classification-and-ensemble-methods/README.md)
 
 ## Portfolio transparency
 
