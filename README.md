@@ -13,6 +13,7 @@ preparation and machine-learning foundations.
 - [Decision Trees and Naive Bayes](decision-trees-and-naive-bayes/README.md)
 - [Classification and Ensemble Methods](classification-and-ensemble-methods/README.md)
 - [Neural Networks and Image Classification](neural-networks-and-image-classification/README.md)
+- [CNN Digit and Fashion Classification](cnn-digit-and-fashion-classification/README.md)
 
 ## Portfolio transparency
 
