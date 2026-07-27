@@ -12,6 +12,7 @@ preparation and machine-learning foundations.
 - [Linear and Logistic Regression](linear-and-logistic-regression/README.md)
 - [Decision Trees and Naive Bayes](decision-trees-and-naive-bayes/README.md)
 - [Classification and Ensemble Methods](classification-and-ensemble-methods/README.md)
+- [Neural Networks and Image Classification](neural-networks-and-image-classification/README.md)
 
 ## Portfolio transparency
 
