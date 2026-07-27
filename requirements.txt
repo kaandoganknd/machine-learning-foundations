@@ -5,3 +5,4 @@ seaborn>=0.13,<1
 scikit-learn>=1.5,<2
 imbalanced-learn>=0.13,<1
 jupyterlab>=4,<5
+tensorflow>=2.19,<2.21
