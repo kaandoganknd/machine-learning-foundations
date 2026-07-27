@@ -14,6 +14,7 @@ preparation and machine-learning foundations.
 - [Classification and Ensemble Methods](classification-and-ensemble-methods/README.md)
 - [Neural Networks and Image Classification](neural-networks-and-image-classification/README.md)
 - [CNN Digit and Fashion Classification](cnn-digit-and-fashion-classification/README.md)
+- [Recurrent Neural Networks for Stock-Price Forecasting](recurrent-neural-network-stock-forecasting/README.md)
 
 ## Portfolio transparency
 
